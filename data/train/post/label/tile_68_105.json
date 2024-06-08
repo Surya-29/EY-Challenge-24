@@ -1,0 +1,64 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          330.0,
+          321.0
+        ],
+        [
+          378.0,
+          358.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAADEAAAAmAQAAAABFNE6SAAAAj0lEQVR4nG3PIW4CYRCG4WenDRgSKpEcAYlAcCQkjpU9Ro9SUcExNpwASQjZQfzDClL15p35ZpIPLHsBhz2Y5yBw9AUfmTfBgk/BBoIW1mXmQ5ghhG2bdiN0MWupWBXXxXbdh/K+WO6UmZmTT/x98xeH/+YprnAv/2aemY/a/7V2Y+UvxZ9W6waRzu3jDjwBlsMl404GBlEAAAAASUVORK5CYII="
+    },
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          379.0,
+          239.0
+        ],
+        [
+          493.0,
+          286.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAHMAAAAwAQAAAAAK9HiJAAAA+klEQVR4nH2S0W3DMAxEnyijDtCiddEBnE2aUbJJtU63UIACXcMjpH/+sH39kOzIQtr74oHEkTwSEjRSoPVSQb2+pbCyM70k/UwA5mIXBoBnD2CKj+dcGABzNG+FlAFPOT4BZuxgC5GqfsURwF+0Ykiz7bgtlV4RdxU/VDzNf4ube/m+4se/+93jrtCfm//rDbBQ5WOhBdhQJCPQ3vzQFZyfdg2dKw1yu30hYIRNKl3oXZImnx02BoBp7iA5iiSN6Q4LRhaYA+BiFhjhRZIi0KfJkKTB4Lo1T2iLfCz8CHlnP8HlBMbX5yvgtD3nAwAfKnYG+v1z4xS3+BcWqYlNLskEpgAAAABJRU5ErkJggg=="
+    },
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          161.0,
+          227.0
+        ],
+        [
+          216.0,
+          272.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAADgAAAAuAQAAAABVcuc1AAAAkUlEQVR4nHXPMWoDQRBE0TdtHcMgn8T4ZGJBgVMfaY+yzhzK2VoIlYOZRQik6DPdU59qMANtGVwHr+DlmBn2yaJ441WxQOu/vtknydp66K/ewa4+hisg1Z9qGnTHVvPDucLvRC2cRpskm+/mPd3lrrU+9+FSl8f7cUfbwfmTlmTSufVBha9eISO/8Tz4040H8A9dLjb3uaE4ogAAAABJRU5ErkJggg=="
+    }
+  ],
+  "imagePath": "..\\data_tblabeled\\tile_68_105.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

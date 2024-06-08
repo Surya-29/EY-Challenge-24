@@ -1,0 +1,28 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          0.0,
+          249.0
+        ],
+        [
+          180.0,
+          370.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAALUAAAB6AQAAAADRli9lAAACO0lEQVR4nK2VPW7cMBCFHyUj2m51AANaIJdI5z1KjuEqq6PkKCpT5ggqUriUAxdrQ+vngsMhhz9IEGQaiZ8e54cUh0DNlgpzxHHHXcE/gcBc6ieSXLuCfwWA0RWcAPBc6EVY8M7yB5vBQZ49F30jyU30O07C71I/U5GV52udDwBGBI+RHwq5jzsC2Az/7sOSDCF8nrHe0ejLdQAAsMHfG3z3fDNSANdSzzm+H0nqHJJcK/7nmOc1/5bo1c8S9YUtnu9ItuBs9YuN3VmZpCpPl+W/ix/C2h79336GuangEitzJIs64fdxa9WV8X6W9bfmSLL0494lR+vHiYfnGVuarhTHzuov8sziXihmaxqY8T/UFU/A3+n/nW8Nvjb4YkZHret/5WO5rmLL/287HLJ0cv1rg/9o8CUL14v7raE/NPg14+GvaflZld8DiOVrPt3nFTXrpAfPOT9nnTOYrNWDr0undah1bc/vK986+GNY0+Mxb9uh/5cT/DpcGhyLLOQ5418a+kGGJ+USUvyMOmFiarpfzpkDfgv3d8dTynX7HAZz8p0KXueUJwMTeYkOf+U1Cb+l41PkpmWnia3JeE34U0O/J+OQjwNMn3eJPinG3gSxMnWZ3ZuWvyh/MjxWvBoet3WBsaINSL5hM6n75V/Cf19cIlOtmccAsRBx+OYfBZcAmr7a0R47td6mH+8jmpG9r/N7OGSabKjq36xMOc/2B0gz3Sp6vJjDHfltrjYQYKqUCwB9LX0A+Ja8fwDPeyyoTq6WtAAAAABJRU5ErkJggg=="
+    }
+  ],
+  "imagePath": "..\\data_tblabeled\\tile_73_98.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

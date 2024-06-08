@@ -1,0 +1,28 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "damagedcommercialbuilding",
+      "points": [
+        [
+          427.0,
+          386.0
+        ],
+        [
+          511.0,
+          482.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAFUAAABhAQAAAACPZdBMAAAA/UlEQVR4nJ2TMW7DMAxFnygBzpaM7eYjdOzom1VHy5CDaMvqbjZggx1kKURjIW49PX58UZ80BOAS9fMaK3f6KDrVsfBZVQFkqxcg1PPMRS+ei+HecNrRHaAZZ8ll8YjhYPjNcG/YZhga+p/Y1WjPM75mZ1gO+MMBT4tPDf3S0PsDPYeXHlfX82s/bt9/iKWhh4Z+MvxhstVo//l3DY6N/kbfPavg/PKcZ47gVFWXL01+yvpyJa1D1sfzPfkp72T8fk8BvG6vcfO7x10rAAEBbrkXdLpd7CfJTxdYEdZtcx4pMivCVNJFOwvdWGgSKtt5B6kvnAF/Nf7K0XT8/AE0Dk+iP7QI1wAAAABJRU5ErkJggg=="
+    }
+  ],
+  "imagePath": "..\\data_tblabeled\\tile_68_117.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

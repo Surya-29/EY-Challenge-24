@@ -1,0 +1,28 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "undamagedcommercialbuilding",
+      "points": [
+        [
+          112.0,
+          421.0
+        ],
+        [
+          298.0,
+          511.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAALsAAABbAQAAAAADr8lFAAAB70lEQVR4nH1VsZHcMAxcQprRBT+vK8AzvhI+dKYr5UtwB69x4NgluBTGjq4E2RVofj7Q2z7BAQkSFAkzOYrL3QUIggdgnNEe49ZaJeA8GACwtIELPliMrm0/Ma9NxhV4NKTgaq0A4BkAxgPGHE0mbUVqfh1r4BR+Fq3kmJm3oLlWjDgeKqAPP51Xuzpm5j2G99eQQrc2AAeowyGRFzRHPIiHY1YuUWrPLimwUfZ1zCnXxMhhYpg1Y8uMeC6HPAApSwQ2IMftA3CW75NMngypsINwqYD+wEiapIC1orU8nAdAuNbIp8xYCiA0DDMzewATp+HbHsCTBYyzAeAzyKUPHd5JGP7A6C0pwLkdCHeK1fK9pzaFotSfSMpCnnoA+NrwGDbg3gNwu1rmLxjkwjhWY7fDpRNi/Q5b/vcsxVH0SfTwgLpvkXGW2WpJzeUyXWT+zWIUj6wLdyPMrcxZm7wBL8JIrVad1f0QVx7fC3tGKp6qCBMh34LCvnikRqtQOcdbCfw+mN9zKdKlc1SGfCnM9b15ie6h0xQggRUJ6iQdzSiKJ+wZH0spMfH0q2wMFd7ERVGj+wIM5X/aEAHC+3zWgBxL0Ucq3p92GxwX2AIk2xrwFhDrWAO3H1Y8mJjZt8K9GR54tQBG/YCJifEyLAD+AZpKDscU84JGAAAAAElFTkSuQmCC"
+    }
+  ],
+  "imagePath": "..\\data_tblabeled\\tile_68_92.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

@@ -1,0 +1,28 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          24.0,
+          449.0
+        ],
+        [
+          147.0,
+          511.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAHwAAAA/AQAAAAAKqZHRAAABGElEQVR4nG2TMW7DMAxFn1ij8VAYBrp0i25SHaUnKdyb9Cg6Qo7gMUMHDx3SICg7RKpEJlpkPZD8nxYF/GLXg5qjAIsFA8mCkehTZgtmniyIiAWJYGRQ1dxHBDAyciOzU9VLHzEWM70xggdkDzoZmbEyxjaARICxAwlgaCAogLbM2xo4Z7K07xUAVVXVBQgn3k2EPIaPr1o0AUOYeF46lZEDJCMbIUq+64NMbbmAfQ2YC3hb/v/S/upsg1dV1a2qTLutFD1e9/AyFVAvKZZBGuoMVj+irbviI3uwerB5cPLg4oGd/e3OvahH1y7rWgVnRODowdkD094qwKeLsEUE+PHAvEIBOHjw3c5ZoD721CLUpxRPHei8/gGuz1WBA9+UjgAAAABJRU5ErkJggg=="
+    }
+  ],
+  "imagePath": "..\\data_tblabeled\\tile_73_112.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

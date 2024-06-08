@@ -1,0 +1,136 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          185.0,
+          403.0
+        ],
+        [
+          224.0,
+          452.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAACgAAAAyAQAAAAAGyKQ9AAAAfklEQVR4nHXNuw3CUBAEwHkrBITuAJdCKXSC6cylOCR0CJLlRwD+JCSn0d7plsuLuJ2qUmYeOeIaaHOGQJMG58AhLRLrtuS6Wqmb/84O9eceMmDOCEXlHS041TrGtPswMy6uSz6E7ud+34V73bV/PQumLe9fu5tRGAjPQZh6H4B3IftBQGacAAAAAElFTkSuQmCC"
+    },
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          297.0,
+          416.0
+        ],
+        [
+          339.0,
+          470.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAACsAAAA3AQAAAAC9Mo6NAAAAoElEQVR4nFXQsVHDABBE0adFM1aGCiBwJ6gzXJpKoASRETpUAD6Cw1hEN3/vdmfn8HQBpw0874R5JAjhPBAWq8AZqq5i0FdMIoxNESNDk0tMLc9YWvzdndOBsTxEg8LH/XI4GKRnxn/idKAt84FWr1VVTSULbnefqqq9aXdsdv2jflFWbNKfyifW7jmIiyLWtm9ucKqd+LIT397BW8e+4AdsQimRxJycQgAAAABJRU5ErkJggg=="
+    },
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          412.0,
+          427.0
+        ],
+        [
+          451.0,
+          469.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAACgAAAArAQAAAAAiEfduAAAAQ0lEQVR4nJXMoQ2AMABE0VcQGHZiNDousgOQHrZJTTFPXPLPlaS6k7QNzhJkA4NlWmbnarQvPKz7/q4qHlfSOdJgxwcDdRQU6e3aGgAAAABJRU5ErkJggg=="
+    },
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          465.0,
+          430.0
+        ],
+        [
+          494.0,
+          457.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAB4AAAAcAQAAAABegzIEAAAAVklEQVR4nEXHsQnDMAAEwPMTkLtog2gUj+bRNIrLlCaVBQGlcJHuznKQVJS5U+YllJ6VFtRU1uARSMMtyMb332Uy7u5cXnOeeSMD0aDMIwZhg2cPn/4D6ogVOGgrli8AAAAASUVORK5CYII="
+    },
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          431.0,
+          480.0
+        ],
+        [
+          483.0,
+          511.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAADUAAAAgAQAAAACahg31AAAAZUlEQVR4nG3KsQ3CQADF0JcPBVVgAxiB0SgpyWawCSOkTBHlKA6QLkpl2TIwAscJnEtlKbOwI8Iewr3OXSllET06ca21W2BIX6/cfjd4xbe3vOSx2U9/fzb9kPfmL+PKp5XPrX8AqGkU8qAOMSMAAAAASUVORK5CYII="
+    },
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          336.0,
+          466.0
+        ],
+        [
+          379.0,
+          511.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAACwAAAAuAQAAAAB7N8anAAAAjklEQVR4nEXOsW3EQAxE0bcDAadQHXhL2dLkzq4UuQOFCs5HB2vL0eCDnE/CYxesQ6ALtk3QV8EA6hKaRYjMAmHRhHXSxh76pMGYm71RfEXD9iu4LQslVt5i41t0rjMGj6MpfP4V2oyJWWasc/hRVSXdfaFk/NObqqrXpJfsuO5fnjgnHXLgOZ3kpMgFfgC7DScDwQy6fAAAAABJRU5ErkJggg=="
+    },
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          90.0,
+          462.0
+        ],
+        [
+          151.0,
+          511.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAD4AAAAyAQAAAAAseFWSAAAAr0lEQVR4nHWPwQ2CQBBF3w5EvEEBJlKCHbgt2cGWRgmWQAnEeMAE+R52BxKNc9mX9/NnM1Al8rQzAAZNUWeN2fScSoQ5hAEwIlyAgEBW8pCAIEkTUEnSAlYDVAkaSdIIrSRpzi04YB0AwQ3J+gzRTe/QWSzk5uhAUH5fbuot+oFlN+XweTfDv9ZkdzdPh/ctRGCEfNpgwAMYDNBWT77sKmUzumncLOjr09VBrCVK8AGN9zwYdYmwfgAAAABJRU5ErkJggg=="
+    }
+  ],
+  "imagePath": "..\\data_tblabeled\\tile_68_94.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

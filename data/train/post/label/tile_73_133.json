@@ -1,0 +1,154 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          443.0,
+          250.0
+        ],
+        [
+          489.0,
+          317.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAC8AAABEAQAAAAA5b1GYAAAAtElEQVR4nG3R0U3DAAwE0BengnwgkQ3IKB2FMfqZ0TJKxAQF8RGhtObDLaJRvk4+n3V3MifgCpqEYESEI+JgKLJHdCB6L4hB1K5BHBkJvBf0BR0yc3VXR5lGGf+b1ofpBgsxcv4jvWbOxFdJcjTXbtqekzkVXImGZqbNzLUk7dS0Ky5xUJ0f3Lttluq+Q+7AdUMOe8oZ1k3q58zMJX5u/QYsDcnn/Q98cw4uY9285RT4MIEnvxxgNhlJ27SEAAAAAElFTkSuQmCC"
+    },
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          385.0,
+          333.0
+        ],
+        [
+          445.0,
+          382.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAD0AAAAyAQAAAADHT+6RAAAAmklEQVR4nI3QMQrDMAyF4d/K0AyF+ACFQi/Sa3Wrj5ZCD+IDdMiYIfh1kB0CoSVa/PEkITDdjNcgfy2SXHdlhyoMYkPfWqUloYEUK8IH4Cm9NHly4+y4YGBjPW4ZIIBNAIxwkiQt0OkqSQkYJClbXYoNvcG8Xm9YAOZtsqLskh+YDsz8QT4wM+5bAUIBQk2EgYDi3wtvAIb8gC+AIDMAXgBVLAAAAABJRU5ErkJggg=="
+    },
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          394.0,
+          389.0
+        ],
+        [
+          440.0,
+          433.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAC8AAAAtAQAAAAAWlA8KAAAAZElEQVR4nKXMsQnCYBgE0JePH2LnCLqJjhY3yyiOkMIigslZBBuxEK0exx2nn8AhWWlHulyckmQqsNtodYbakl/pAvnUrX9evzF8uXy80ri5T5K5bjDXMmCiT3It9665FpY2PgF+QyGVQxWI3gAAAABJRU5ErkJggg=="
+    },
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          376.0,
+          258.0
+        ],
+        [
+          423.0,
+          308.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAzAQAAAAD57baEAAAAjklEQVR4nGXQwYnDUBRD0fPlIckuKWE6SUpzaS4hJbgEL81g/GbxCdhkJa6QtBBtAcOGMIxwrbnLRjAQNybcq1bx4CLQJp5VtQZcurR46ZvQ1IG6VJovc09O5g9sH7rBeioseXyvzPk90JTXgcZjsrRC5WOO2E9jm0ydZqyoqqUfsoi/nqzRLP2j8NZLO//C9SvuKMyPXgAAAABJRU5ErkJggg=="
+    },
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          237.0,
+          145.0
+        ],
+        [
+          274.0,
+          177.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAACYAAAAhAQAAAACdQ+S7AAAAbElEQVR4nE3IsQ2CYBQGwOPTwsIEJzCO4AhspqMwim5CSUlJCPmfhRZ2l8MVunqKGMTZTdxB1SIH0Fc1udPJgGdXeAduGXAJnDJBFhyzQkD2PzfsP8OawhIYeVQTL5uYzPJtfSPWjdhnoo18AEBSIf+KcF7QAAAAAElFTkSuQmCC"
+    },
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          138.0,
+          469.0
+        ],
+        [
+          188.0,
+          511.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAADMAAAArAQAAAAD9X41xAAAARUlEQVR4nK3NwQmAQAxFwdloIZZiZ25plmIZ3uJhURBvwdOQB5+QmSexYSZgoiVkBGijc9ufu7961bW833/5X3X59GN4AXCYCdDAHwJFAAAAAElFTkSuQmCC"
+    },
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          2.0,
+          491.0
+        ],
+        [
+          40.0,
+          511.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAACcAAAAVAQAAAADtaso+AAAAMElEQVR4nH3JsQqAMBAFwcnT/46fnPZAOOuA2kyxC8cKfRuayoTRqIAPz9+7e732PEFwCArOc/WwAAAAAElFTkSuQmCC"
+    },
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          468.0,
+          352.0
+        ],
+        [
+          511.0,
+          407.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAACwAAAA4AQAAAACuuCchAAAAZElEQVR4nLXOsQ3CQBBE0cde4AQJh4SU4lIo5UqjFJdgZxcY1sGRIDlCEH3Nl2Z2wQ14gZI1cDahZM5h2BBDg7iCuMN4SlijD/wT9cve4yfX5yO5HMnWsX3I5zvVjv6TS1YoDTvGsRR1OHbHdAAAAABJRU5ErkJggg=="
+    }
+  ],
+  "imagePath": "..\\data_tblabeled\\tile_73_133.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

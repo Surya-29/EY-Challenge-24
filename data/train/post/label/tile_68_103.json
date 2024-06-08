@@ -1,0 +1,46 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          414.0,
+          165.0
+        ],
+        [
+          511.0,
+          243.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAGIAAABPAQAAAAA47C1LAAABUUlEQVR4nJ2TvXGEMBCFP+0xwwWeOUJnRwlXAsU4cQfOjDuhFLkDl0AJhIwH8xws6MehCSQ+7bLvrZAAgGefzKcXiieojBmxiLVaCrppLzI7wpiphyHTAH3+TtIKEJxAdmaGc9nSMGafXsmpOVcM4HpoOj3cz0HDmRAOOfhpPBZSheSAcLw9efnR6ZHlvQNJWsDOIufTHrGtdI2BpV0ngFU7Yqmy93sKSBErBHqsqNpheRsA823A+zW6RA1WymFZDiOgHAp2KRKjlQLYtaKuor6ioaIS0gkD4LOO/ZvGimJFMwAfh8GbJIl2vUvRVgCxrQtgG8DOzpoUNjQC2A6wpqqSNAOtFI0RmJOzCMW9uUsCuEjRWP72oIp28MNtLg68Vd1GiNDKr+Jdu8cWH76dJve6uioArWYsyW1MQNAG+B8x5HLoFYD37NSAr0QNTPlM/gKx6Xs1BuVkUgAAAABJRU5ErkJggg=="
+    },
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          128.0,
+          5.0
+        ],
+        [
+          291.0,
+          159.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAKQAAACbAQAAAADE4g2UAAACe0lEQVR4nJWWwY3bMBBFv2gh68MC1jG3dQnuwCplSzGQFJAS9poulA5cgpIK5MUCURxbkwNFcmb4F8HOReTT18wnKVICTBxH1PEgEwAgGLpdr5YeVm5pT7KiEZlr7afUMHQLtDXtUt/QZ+B6IsXkz+C1IRfUtDX3lQWgygCADO9JRORGtRtPJwDAF6bF42D7OxGR37ux1t6+d12t/YunyWpnAC32W1Ltl3d2AwD0LdAo2iwAgHtbZbi0PkMA8G3xhTYiMm3i/JR4EFlnrZr1nCvFQRvMERPIbLTJuqW8CUpbSreU8gwppg9ouw9oLZ3XK1tjoKU0UNqcaLWe0v3/Z6crDUX35SH1nkluhKIt95tTofnIAPpClQVVraN0r2ipIQX+DPVtnSFQ2lK6pfSgYJdpr7WpdKN31CVp7ZqkXkupsTAleqBaYyF5MBbwIzALqWstDIFYyLETHSlDpyVC374l0b2mt0R7TdMGaUyxkX1LSB8AktYNbb0+2UHEOduYw0pCzPDoBhHpwdAbcyuT/np5v58titrN6AcB+BmXJWawDvDKHMgIIFQOIvXLOwDwMyNL9Ptspdd3iyH4xXh5bwxA6NgYfIJzvBxthghDDxIug1C6bo9GDL2Tf5i8vo6uL2k4MbtOO1B6YjQZsnShNL2xYSDGnPZMaX7wWM+u094pzRFGYsxqZ0onSl9ya0eMGS2nC6Vlj4e50Jlqz7nVlLNBAtO+lmYohSdobeqNhnZrcyi0yWe3Kqaq6ZO90DdN85ScoUPv1JLhVPlSeXuTYF0M+8MY1vnz9Hr2vgCsv5GDQQ3iKppPN0L0f/EJgJ1PAACoflgRANzx1dF/5WtW5k2s0OUAAAAASUVORK5CYII="
+    }
+  ],
+  "imagePath": "..\\data_tblabeled\\tile_68_103.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

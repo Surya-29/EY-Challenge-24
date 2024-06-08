@@ -1,0 +1,100 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          0.0,
+          380.0
+        ],
+        [
+          82.0,
+          482.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAFMAAABnAQAAAABUIkMWAAABLUlEQVR4nI2UMW7EIBBFH7NWvFKkZG+wvol9lByFo7nIAXIEurRO58LypMDALCLxUj1//sAfQAbUk0avS+ZRy4SqBrjPIBfgBh8D0KvqyqgBeFfV1akuIDege4MryEAsAASAATqQKW8U9UOIHg8CTtP2cujGD+Bo6w/sDU+GB6Q0DppGeFwne27IbPSQ6Arcj9oVYTnJ0z2RueY1k7AZfT+pdQj6l8cf6J/IMFX6bDg0/INQDsLoQcjNIJRmqvV3w6mBuc7mzfcYLwABfuzEvegp0Um/X5nXmLXh2TJv/68JgNPvnCE+mMixs3T+u6l9ba/p8U19tvu+VLX13QG4woG5nV8LLxDv9KjIHpvZ1krh1eoszQy2dsPHd1KNi/b5j+S01+3wq258ZpcL8Av7rXIONp0mjQAAAABJRU5ErkJggg=="
+    },
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          103.0,
+          342.0
+        ],
+        [
+          184.0,
+          477.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAFIAAACIAQAAAABc8oF/AAABEElEQVR4nL2UvU7DMBRGj91KzYAEI2MfgwGJPA5vgUceK2w8hkfGDAwpCrkM8c9Na0NApVly8unky42tBAAZAbDADhLfYcMVG5Ep5veg4pTn2CDzCbCbbNut4lvFe8Uobsu5EXI/ZWc9z2XWVZwOYHqSDniQ+ejB+iA0R34fYHuUD4rH/KCFMymW2syukv+RzZl6VjKENRT3D/3tmXr2F12TvKf+l/PU/MDPHFzkR966yDfgs+8rs3UA4ZN11ykX5XysmHMoz8Y8SDnvEw8n93Y/3HsVuAm5T8bS7wOZ2ho6y6DykUMb+dM0C1+9oz/p+Z7nMdqYj8lpyv4FeIr8/gqEHy1gJl5KvugelzYIdj1fXuNLvimZZ1gAAAAASUVORK5CYII="
+    },
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          201.0,
+          355.0
+        ],
+        [
+          277.0,
+          470.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAE0AAAB0AQAAAADoB4J4AAAA7ElEQVR4nL2TQU7DMBBFn52KZtdwgnITcjAkrJ7MGwTH8AnASyMVfxYJdgoGGgRk9fTzZsbjKMBegfmR5PbygJEkKWK5mN710E2hjtibtxJsIYxmeNks0v9A94Myu8I1nwm+kbo/W3M8d5rW9fUfU9OetuYeTjq0hG8vaqx4VXFYumHFIQv1v/tZ4lnunQPYSYpcS4mtpEgnpeqm92U9QLQA22bfe/JJOtgj4FtuHifupOdHjJRshnRZhKfqBpj+ZmXkkJLFHnBj6XgbKUePddrQXL6vuGkKtplWXC5kcF+6AVfTglH4GVMm8PAKHVlbGyxCDjAAAAAASUVORK5CYII="
+    },
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          283.0,
+          335.0
+        ],
+        [
+          369.0,
+          469.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAFcAAACHAQAAAABLjfjuAAABAUlEQVR4nM2VMXKDMBBFn2TGUHIDc5Nws+gAORRdruEypUtNhuGnQEjrBIgztmdC9fg87e5sIXAKLM9BMXMtDYbzSy1JM3oAouE6FEdz4cQj4JvUJvvAAJxmR9HkR/BdnqbkzjDg+xXnGzuVwyUPm/7fuDfcGW4NN7fVDAtV9802GD4Xw7kpsbyXcQiG12q6B+3q6Rz+wQz3cH+D023kreFmu87wiDktV57zb45/wq6m6/wCwFic9yOMiT/3a+ZrLy65AM8IgPvhT4uzs2dBNGff8qfXeNDglO5ap4uTlr6NqfNhuFVh66z03WFRAdWKMxI2zg5reYiQlsMLnK7+G+ELU59WSGW/joQAAAAASUVORK5CYII="
+    },
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          387.0,
+          288.0
+        ],
+        [
+          466.0,
+          470.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAFAAAAC3AQAAAACtK+Q6AAABYklEQVR4nM2VO3KDMBiEVzITk8bmAJkJRyEnSY6QMp1d5GCUKXMEUqWlcME4DJtCoBWZ3w/GTVR9rJfVSoAMhPGKabgO8AF9FvEBEcs+ejl637AalR17sgs/kgwGN/nHBCg3VVeJugfgSJJspBbCXJgJPfx04eAxjHKt2cpoQCE1F2ZC75H9LQk4o/oZzK/1Ung0DZ3wU1gD27BRnOd2sTBAAPh6fvJACQDlBwBs2ZcIT2c9PjQP9DFh3qEz1etxMFW/wPsP8CVebUm2QS1kKOe35cLwJvkKwKpV7kboqE8Pd0K3V4fqUsnSfGGc6fVwHPFwL0NveQczIb95U2mq8777swmZqf5c8iZT+MxcfGdWz29d8Qm0Z7sdl/WtF3ibiU5Vb031IByEG2GxoMMSjHXatENi6ITvwlrYGGHJv0ibJsRzv9GC6sslj8LvxFAhGbtw2gPAI0mGbVw34QQZBxv8AnF2aFOsZCJNAAAAAElFTkSuQmCC"
+    }
+  ],
+  "imagePath": "..\\data_tblabeled\\tile_68_85.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

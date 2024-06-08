@@ -1,0 +1,28 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          253.0,
+          287.0
+        ],
+        [
+          334.0,
+          379.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAFIAAABdAQAAAAAeAQzjAAABO0lEQVR4nHWSO1LDUAxFjxUPpHSZingJlHR4J7ATvBSW4iWwhBQUlCkomEwSUejzlMzY1fEdfa6kBwCMAGL8tpCfHlPfsE3u6ZN3SPI7XWR2qhr6AzA7b4HJ+bk1QlX1YHrUEE9lMN55voTh5hl64ynaAwqg0mIsvouAO91/53u9cl9+H1VVVUFsqtt404eij6Vv2KRzm9AhbXuITe5+dkUfC2cZ2Kh/C1JcykvQuDLXgByKfgzalph+Jbfutlvb2yx/RT8XviZOqzvXqk+F0/QC+xgeIQa4IETj31LzizydguCGFISL8QkEZgB+QGAB4BOAV0/Nms6Tp6bu3dWfdt7XWMI8cTybq4+SiD2rq/FQZh8BM367t+m+7RFArK3xU5nkQ1X1SqtzKqlz4zMt5tt59kF8I3nWfTvwPysmfkO2wDf9AAAAAElFTkSuQmCC"
+    }
+  ],
+  "imagePath": "..\\data_tblabeled\\tile_73_137.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

@@ -1,0 +1,46 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          38.0,
+          340.0
+        ],
+        [
+          87.0,
+          387.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAADIAAAAwAQAAAAB7jBQXAAAAaklEQVR4nJXPMQrCQBSE4Y+1sfQGHiW5mXu0PUo62yBWQhyLYCAJKKl+Zh7zhoEuA2735E2XJFF6UEsFig3Xfr+7/2bb5dqh/NGexV/2rfyvfs2czjOfm3/jn75hoxuuSVBGgmK6POBUwQfbiCPY8I1RUgAAAABJRU5ErkJggg=="
+    },
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          147.0,
+          33.0
+        ],
+        [
+          193.0,
+          75.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAC8AAAArAQAAAADAzewXAAAAkklEQVR4nG3NsW3DQBBE0XdjwnCgQKEysQSVwJJcgtyJSmEJKkMhAwU0QNw6uNTRAxY7+PCxCk6z4PsMrXYhJuEkwg1h0TSt8xPBEhPmuOAcMzSF3zSQz8EXTLlBshgxqBgv/9AHR+6wZ4VtHB+uVVWyoWRHH7u3HHhKx0qr6qToxN0xCi9i9YBrH9nB9kbsT/wBrPsrpAV7kRkAAAAASUVORK5CYII="
+    }
+  ],
+  "imagePath": "..\\data_tblabeled\\tile_73_135.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

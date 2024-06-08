@@ -1,0 +1,64 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "undamagedcommercialbuilding",
+      "points": [
+        [
+          256.0,
+          42.0
+        ],
+        [
+          487.0,
+          116.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAOgAAABLAQAAAABSWvaVAAAB9ElEQVR4nJ2VO47UQBCGP7etsYMFe6XNZw5AQEi0Y4kccQgOQLgZFhL53oA5AiEZLU4w5KywEAFhIzaYWXldBG0PfpR7ER156uu/qlSPHlg4T5cAAAJgglf+j8ZUAVUsQaft6Stv83pKr3js48YucsWUrjj3HyIihykV1pBACpCMWZGDAwNXSk5PfB4JaurP4fILkIqIiDSTqCKf3gNvPG1nVASi3nE0hFHrTf/YhWrOqqB2QMug583Mer3U/QRAlmgGcBmaq/IiOHXFgNZTaL8GtZ8H1M6057OZ6M4BqPjwUqcZgJWV76TIeEJyb8v7uOr8VJ328EzTfusmx2UabbusMi07+6iP+1qLe2EAJNq81WiRANzpRSmPxgJE9Z2GfZ1/rmIVYmr4tdHZ3x7N9hfgYIA9zU0xNgNgHbk4iM7GolTk91bW1sAeuJ15dbDDcIQzpUMFlBA1s9U+rXxtpFkevdpQDd+1yQlutzW808mPEjCquoGbOuh581BcTKRdSWBrH9aq1r54Rl2Cvjxm+ON0pAp5Zseuu6f0iFjYiixp7/kIQKRq/fJ5qnQwFln2zH0FgpGFvbfQYoDvLxRawy1meWy4Bo7ilJxZSwuGFcR2Th2tr2Q2ftj704D/Y1Jcp+LA8EpPqWEPwFaUsKcqpOp7A8AfhwLbho3ocXwAAAAASUVORK5CYII="
+    },
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          236.0,
+          368.0
+        ],
+        [
+          286.0,
+          416.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAADMAAAAxAQAAAABfEqyMAAAAp0lEQVR4nFXQy03EQBCE4W8aCfaA0GbAhrAhODMcCqGYDAjBZODjCFluDtNG2tOv6keVuuFjBi1X8JJJcGEV3LkKJt407UALAXN4hSlcQbgVp2HaDviKZ6N+Kd7BLcaYluAnVP/k/KDXWEqvxa3Yy+/c24tHMU+fefj85yyw8J6ZWTkpbPgVOrqwYxMOfGokbcyPf80OgsVOsOoEm2+CXpFP+XAyO/4Av0QxTTW8QDIAAAAASUVORK5CYII="
+    },
+    {
+      "label": "undamagedcommercialbuilding",
+      "points": [
+        [
+          427.0,
+          414.0
+        ],
+        [
+          511.0,
+          511.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAFUAAABiAQAAAAAJ8aLiAAAAlElEQVR4nL3OsQ3CMBQE0LNBiI5sEI/iURiF0TyKR0iZNDmKyM41H31Qgqtn+/T/AUjYD2vnhSzND3LdFAEgzACeAEaSXEjOcfu+9QxafhIPYhieHJlv7dmbDtqVD5qjLo5MPWGvOp0833J1dMjGe/ljT6vD7w5g42Lmg2OmXOJVfBcP4mTMyUbPXvNDz5fxXsR19xsW8x/b/h6cwQAAAABJRU5ErkJggg=="
+    }
+  ],
+  "imagePath": "..\\data_tblabeled\\tile_73_122.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

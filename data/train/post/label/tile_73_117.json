@@ -1,0 +1,28 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "undamagedcommercialbuilding",
+      "points": [
+        [
+          408.0,
+          157.0
+        ],
+        [
+          497.0,
+          223.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAFoAAABDAQAAAAA0Ci/8AAAA30lEQVR4nJ2SMU7EMBBFn4cIp0LcILkJORbd+mg5ynbQ4dJCIZ8icTwbaREwlV/+/PGfyISVo8xCatAxNYCxQd8sGDx7uFHCfNCgt+KUPhYIpXoiWEzAIEmFBxWwEeCRjpjgRR+ScpQKBhl46iHWbCEDySeYbuNMHvgzzJa+Jqcsvq14pVXiclUtGOYGAbR3yZxn9QOWc5xQj+WsyMMv9sl+2s8e89DV4/U/P/EuzBifXtHo2969bXsk2jeOHnaJbbXtbYftHk1+RJC01gRKp+mHQj4FbUq5u8/iv6H8Ct8zD2PlivoXbAAAAABJRU5ErkJggg=="
+    }
+  ],
+  "imagePath": "..\\data_tblabeled\\tile_73_117.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

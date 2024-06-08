@@ -1,0 +1,64 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          123.0,
+          303.0
+        ],
+        [
+          196.0,
+          363.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAEoAAAA9AQAAAAAijMKlAAAA0ElEQVR4nI2RwXHCMBREn76YMTcogEPK4BZaSQepILgDWvIhhfwSfDQZxZuDkDVEhkEXrd6s9q9GQOwpazfm3eBzW2CnVOiREOd8kH4vcsAi2J5DtkqS+ioT2HYJtWXSndyv0qdyznKu1F65lu7pW2OYmtxiODUjxlWvA/ntGpoOK7lPq98SfipVldPNdJZcEmADeJ9pJ/l7plcDhx4gyHeSfwFBA+f8XUHfdJIGA44P6/yXqjVRIkpaDPoAoiaQg7EBOHmuNjWvMBJjSQ4l+A9/62EEcngESAAAAABJRU5ErkJggg=="
+    },
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          481.0,
+          280.0
+        ],
+        [
+          511.0,
+          339.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAB8AAAA8AQAAAAC27VwMAAAAXElEQVR4nI3NrQ2EABBE4Y89gUEgUZfrBMrCQWmUQglIFHuO8JMQzEvezmQWvii3oEeZW2gopIwPokLUCIgfott1R5Hk4TbeK8+4DrzAix/TYzqfdTnrCoZcaRd/KwcSySUxo9EAAAAASUVORK5CYII="
+    },
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          105.0,
+          46.0
+        ],
+        [
+          208.0,
+          111.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAGgAAABCAQAAAACTUK5cAAAA4klEQVR4nKWSQW6DMBBFn03UeFfUA1TcJDlajsZROALZkYrwu7CNZ6KKVuosjJ7+18y3BwBgxlTY8jfmMyxG66TRkZrz5BqdJeM9S9JWnXmMLMHkqM+UsFlw1B9onoY/O4/omiEdOUN4RlCGZ3wLq3EmugaxhynYLp9NHCCMtWW0V8jzPna60h7pp9SnAnrJKQP637uU2l60m6PRie9qtQRMmHvc95on3PfbMUd4JKPBYygw/ZpzLjBGgMVpX85e41HWk+OF0rPEq6sToFjntXQAXKStUeeIi8zPQdBqUiutfANzhk4G7Q3u4QAAAABJRU5ErkJggg=="
+    }
+  ],
+  "imagePath": "..\\data_tblabeled\\tile_73_121.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

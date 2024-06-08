@@ -1,0 +1,64 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          117.0,
+          254.0
+        ],
+        [
+          308.0,
+          336.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAMAAAABTAQAAAADhVTVHAAABlUlEQVR4nJ2UQXLCMAxFnx2GZNEZWLIC7tADhJuRo+Uo6Q3oTBcwA1EXlh2DlQmtV5F+9L8kW4JKOsxTy91yexqq3oxoRS4mICJXy1+JyGhqAM7KqxaxRWoREauUABghARBbHNCQjwLY9AB8DgnZBCpt2FRrjKAagJp1AbAHGlwCUqwL9F0RwR62ZR0iIjKeRWJarn7p+WNVUGl2USSnEpHEVUSwmwO0RF+8HTcXoSUawGkOmKXq/0u1el/jOAdsFzRKVzMHrBaomvc1/ALV9n0qBY6Fa1yIOM0Arpy+8Ej/0sSlAg3ZAHQlElzt6xjEQdiUQJgxVwK6i85zXIcSuAM+7p38VIDn26huAB+f5NPZgcfiWoOHp9VwO0JcOFWeUO+mtfYExPQ7By7b4I+Vml8vbf8BOWlekEuga2f0TNuOMMo30Ntqc21UHvIrCWlU6Ze0zLTWcwQS2UD6MXzFa+ySGWs7ZBJAmz6rqUPBHLXyR6d15+bENZkuBdcpdz2xiXfoHhjHyfVwsYGhtvxQjpye7Yv9C1v8ajIpd7GcAAAAAElFTkSuQmCC"
+    },
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          320.0,
+          3.0
+        ],
+        [
+          355.0,
+          36.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAiAQAAAAAfIkYoAAAAZklEQVR4nD3MsQ3CQBREwfEiIUIKQIJKgFIoxaW5lCvhQgfWfRK4bPS0Wgy4V0NVlxMXuXGWDyyFJSCwBt5Z8cg2uzRcf+6QHXLMTc+Ybqnp7f+/gleVaEp0Q3CI3S4OXQwNCjz5Aq6NIK2gcYgFAAAAAElFTkSuQmCC"
+    },
+    {
+      "label": "undamagedresidentialbuilding",
+      "points": [
+        [
+          434.0,
+          0.0
+        ],
+        [
+          481.0,
+          21.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAWAQAAAACujCIBAAAAUUlEQVR4nG3LsQ2DQBQE0cePCN0RlEZplEAJLsEBAQHcEpwDSyYazWrWlCQp4Amp+X9sXxsCV7ezlp/k6PjUCu/aYK29/wRDeRFImmLUwHS4AeRDGGgYqtKpAAAAAElFTkSuQmCC"
+    }
+  ],
+  "imagePath": "..\\data_tblabeled\\tile_68_101.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

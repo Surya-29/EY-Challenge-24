@@ -1,0 +1,82 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          68.0,
+          478.0
+        ],
+        [
+          103.0,
+          511.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAiAQAAAAAfIkYoAAAAXElEQVR4nGXLsQ2DQBQE0XffSCZ0CS7DIaVdaS6FEiBzgPgOQPhOTlaj0Sw2uO2EoRBGlXvmLF48yMxFYBTwt0NvasPvvgwxN2ah9N8PamOm2C5+nn7/9UWyHvwFnPwSwe5Z0aQAAAAASUVORK5CYII="
+    },
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          148.0,
+          494.0
+        ],
+        [
+          195.0,
+          511.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAADAAAAASAQAAAAA1HWAXAAAATUlEQVR4nFXKoQ0CQQBE0XezJCDoAUpAIre0Le1KAocgGcQp1M9LPsYObh/QLnFmiid3tH0x2n7liiEPWJkwt8I7wJFLFpwOJTtsf4sfmWQReFSu5sMAAAAASUVORK5CYII="
+    },
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          378.0,
+          384.0
+        ],
+        [
+          435.0,
+          450.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAADoAAABDAQAAAADl7SuMAAAAuUlEQVR4nG2PMQ4CMQwEJ+YEBUg8AX4CPyNPCx3PSEl5BUVApzOFYw4S0mS0a3ttVgl7h2K/MFQ4iivBgeKwdgiwyQxnKNvyRIDNxMCnuQIOoVOIEhvlvNS0FkHtv3ZzkluhKurWqwsttBEjkgDIyM2tyWG2BALqV0TQAEICs/eqBRAenjV7CBets0462xp52Sd8Hyhw/D3ZIHaKT9auWJsa9dCm/S9E2uLE5Erx5UeDO9ngSaoNO4A3AsY20dkRlOQAAAAASUVORK5CYII="
+    },
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          467.0,
+          417.0
+        ],
+        [
+          511.0,
+          464.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAC0AAAAwAQAAAACtKc5yAAAAd0lEQVR4nI3NsQ2DUAyE4d8OShUFNkg2YbQwAhsFZRJGeAVFkKxcCtM86RVUn85ny4ixAK9JAb4YDv65Y4A9pAn6t7RAL6lglwB2BwC/JUNyDJ/JWg1Llajumt0Jvkm0uq5KzZWDX6KzbzFJgV8H2Oj2gBlgDPgDEZEj70DRnHgAAAAASUVORK5CYII="
+    }
+  ],
+  "imagePath": "..\\data_tblabeled\\tile_66_110.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

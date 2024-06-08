@@ -1,0 +1,28 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "undamagedcommercialbuilding",
+      "points": [
+        [
+          0.0,
+          0.0
+        ],
+        [
+          165.0,
+          109.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAKYAAABuAQAAAACFSFUDAAABUUlEQVR4nM2VMW6EMBBFv71JoIi0uUAEucHeIBwqfXKslBQ5QNp01lZpIrlIARFitmAN9vqzwkJImQbp6TPzx54BSBwGGiz+K13vt57RKiFsmy5ko9PpE7Td6mrNRl3Y1RkMpWVChiOlHwknecur2RkPiFczo7Oe07wPy3uTuR26j6kyOFBtRWm3fN/UO9u3m0dG86/lG2sU05YpE2UorckNyXPCt0S0rqh4H+ftaN4OuqFdtDFroPFCy0HRf8BdKKqptBB2m9YODYaxNwCAIqQAoAFLugAa/HrAadunH4/+eYIp7FkLKE/7OdKoNTWVGEJN2jx2BqAtY88AsqA1V171zqP2PEhFU+zGW/f99oHGUec41OKqtybUDq/iggblRipvNHFxnptAi28AwCX1LsyjUjKKI+Bmz6NXXMRUUYpXSgtKM+kJhaPhROVUi8PwOAF6vAToHrax/wAAAABJRU5ErkJggg=="
+    }
+  ],
+  "imagePath": "..\\data_tblabeled\\tile_66_101.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}

@@ -1,0 +1,64 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          310.0,
+          432.0
+        ],
+        [
+          365.0,
+          499.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAADgAAABEAQAAAAD8HcsJAAAAz0lEQVR4nGXQsW3DMBBG4Y9nFqpib2BtEiFzBYhG0wgZQSMoQArDMHQpSBtxwubx4X4eeYR3bSWCYgaHXAmqE8FgIKASnATBqMyCiQkyc2s5g1BQhUAIFWUOA0ycMzO3ljeEEWq0XlEkZK+XOLRNd1E7h85T5/gnN7URS/rdb3/Un3mL+ckvsXRfwRZb92+wxt699V94zczEMTNTuCCFG67CjouQ+ISPzH5f4+IKjrkQfFme3zl37lPj0v2t/1Xe82PnSiXn8m/ex3k4d77gB519QYYuWMroAAAAAElFTkSuQmCC"
+    },
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          393.0,
+          442.0
+        ],
+        [
+          460.0,
+          500.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAAEQAAAA7AQAAAADqHBELAAAA1UlEQVR4nG3RwW0CMRCF4c8DEjlEYkugk2xn2RJSQZRStoSUwDHHPSIETA72GoTwwf717Jl548HuW1ufuVJWCoWp0roCxsolc6m0ybz027ZtKTPYZWZOsM/MXAgDvPfMG8IBTKIVGJGZmXkUpT4clHID1+3qKkTDcnc6PXjeNhif+oBDp+HFrXh7od1paLB07dhp9lHdZ4/Ix9jxOd9tbTdPj++met61RcytWNfm9rmZxKkVE2dwJnKEP8Iv/NAmg0KSQfTpYl/HGpy60wtNu1Y5cPCFfxqVVdN8w+OZAAAAAElFTkSuQmCC"
+    },
+    {
+      "label": "damagedresidentialbuilding",
+      "points": [
+        [
+          431.0,
+          345.0
+        ],
+        [
+          482.0,
+          391.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "mask",
+      "flags": {},
+      "mask": "iVBORw0KGgoAAAANSUhEUgAAADQAAAAvAQAAAACEEtQeAAAAmklEQVR4nF3PsW3DQBBE0XdrwWAgQCyBJagDX2lXGkuhMocMBUHgOriDADr6O38mWdwgmBvws/Vc507X7vNAKMrwVvjK3AkXJsLEN2GmtL5ThQV3oeI6fCgSShTQuldjHANLXE5ZTGD+5PlfvwzWk99Lgsdn17ENrtFOvsU6hrfMzEM8R/+CQyS8x1+EDU/hF7vwxqaQFEGT/AEenySDnXP/EgAAAABJRU5ErkJggg=="
+    }
+  ],
+  "imagePath": "..\\data_tblabeled\\tile_73_108.jpg",
+  "imageData": null,
+  "imageHeight": 512,
+  "imageWidth": 512
+}
